@@ -1,9 +1,11 @@
 # Cardstack (Kotlin)
 Create a CardStack UI similar to the iOS version in Kotlin
 
-
+# AOS
 <img src="readme/cardstack_aos.gif" width="450"/>
 
+# iOS
+<img src="readme/cardstack_ios.gif" width="450"/>
 
 ## Overview
 
